@@ -827,6 +827,11 @@ h4 {
   background-image: url("img/image-de-presentation.bmp");
 }
 
+#title,
+#citation {
+  width: 100%;
+}
+
 @media (max-width: 1024px) {
   .bloc {
     padding-left: 20px;
@@ -950,6 +955,7 @@ h4 {
   #hero-bloc .navbar .nav a {
     color: rgba(255, 255, 255, 0.6);
   }
+
   .hero {
     padding: 50px 0;
   }
