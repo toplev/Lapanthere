@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #fff;
+  background: #e6eede;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -24,7 +24,7 @@ a:hover {
   bottom: 0;
   width: 100%;
   z-index: 100000;
-  background: #ffffff url("img/pageload-spinner.gif") no-repeat center center;
+  background: #e6eede url("img/pageload-spinner.gif") no-repeat center center;
 }
 
 .bloc {
@@ -456,7 +456,7 @@ nav .caret {
 .btn-d,
 .btn-d:hover,
 .btn-d:focus {
-  color: #fff;
+  color: #e6eede;
   background: rgba(0, 0, 0, 0.3);
 }
 
@@ -547,7 +547,7 @@ a[data-lightbox]:hover::before {
   margin-left: -25px;
   border-radius: 50%;
   background: rgba(0, 0, 0, 0.6);
-  color: #fff;
+  color: #e6eede;
   font-weight: 100;
   z-index: 1;
   position: absolute;
@@ -580,7 +580,7 @@ a[data-lightbox]:hover img {
 
 .lightbox-caption {
   padding: 20px;
-  color: #fff;
+  color: #e6eede;
   background: rgba(0, 0, 0, 0.5);
   position: absolute;
   left: 15px;
@@ -589,7 +589,7 @@ a[data-lightbox]:hover img {
 }
 
 .close-lightbox {
-  color: #fff;
+  color: #e6eede;
   font-size: 30px;
   position: absolute;
   top: 20px;
@@ -606,7 +606,7 @@ a[data-lightbox]:hover img {
 .next-lightbox:hover,
 .prev-lightbox:hover {
   opacity: 1;
-  color: #fff;
+  color: #e6eede;
 }
 
 .next-lightbox,
@@ -694,7 +694,7 @@ p {
 
 .cta-hero {
   margin-top: 22px;
-  color: #ffffff !important;
+  color: #e6eede !important;
   text-transform: uppercase;
   padding: 12px 28px 12px 28px;
   font-size: 16px;
@@ -738,7 +738,7 @@ h4 {
 }
 
 .white {
-  color: #ffffff !important;
+  color: #e6eede !important;
 }
 
 .portfolio-thumb {
@@ -773,25 +773,25 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-  background-color: #f3976c;
+  background-color: #ad400c;
 }
 
 .tc-white {
-  color: #f3976c !important;
+  color: #e6eede !important;
 }
 
 .btn-atomic-tangerine {
-  background: #f3976c;
-  color: #ffffff !important;
+  background: #ad400c;
+  color: #e6eede !important;
 }
 
 .btn-atomic-tangerine:hover {
   background: #c27956 !important;
-  color: #ffffff !important;
+  color: #e6eede !important;
 }
 
 .ltc-white {
-  color: #ffffff !important;
+  color: #e6eede !important;
 }
 
 .ltc-white:hover {
@@ -799,11 +799,11 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-  color: #f3976c !important;
+  color: #ad400c !important;
 }
 
 .ltc-atomic-tangerine:hover {
-  color: #c27956 !important;
+  color: #c75c29 !important;
 }
 
 .icon-dark-slate-blue {
