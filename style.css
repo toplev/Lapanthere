@@ -5,6 +5,7 @@ body {
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  font-size: 17px;
 }
 
 a,
@@ -679,7 +680,7 @@ a {
 }
 
 p {
-  font-size: 11px;
+  font-size: 17px;
 }
 
 .tight-width-whitespace {
